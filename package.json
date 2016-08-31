@@ -9,7 +9,7 @@
     "deploy": "cross-env NODE_ENV=production webpack -p --config  webpack.production.config.js",
     "plug": "cross-env NODE_ENV=production webpack -p --config  webpack.plug.js"
   },
-  "author": "",
+  "author": "cz",
   "license": "ISC",
   "dependencies": {
     "vue": "^1.0.26-csp",
