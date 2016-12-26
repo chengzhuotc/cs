@@ -15,6 +15,10 @@
     "vue": "^1.0.26-csp",
     "vue-router": "^0.7.13"
   },
+  "repository" :{ 
+    "type" : "git",
+    "url" : "git+ssh://git@github.com/chengzhuotc/cs.git"
+  },
   "devDependencies": {
     "babel-core": "^6.13.2",
     "babel-eslint": "^6.1.2",
